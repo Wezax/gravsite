@@ -11,8 +11,6 @@ taxonomy:
         - html
         - js
         - css
-    author:
-        - Ktooś
 template: item
 username: ''
 author: 'Adam Majewski'
