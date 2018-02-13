@@ -4,4 +4,4 @@ routable: false
 visible: false
 ---
 
-Built with [Grav CMS](http://getgrav.org) Site by Adam Majewski.
+Site by Adam Majewski.
