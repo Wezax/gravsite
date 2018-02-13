@@ -5,6 +5,5 @@ routable: false
 visible: false
 ---
 
-#### Markdown Area
-
-Some text here.
+#### Jeżeli nie wiesz o co cho...
+W podanym niżej linku znajdziesz post jak zacząć postować swoje prace.
