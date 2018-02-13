@@ -1,5 +1,5 @@
 ---
-title: 'Add Blog Post'
+title: 'Dodaj nowy post'
 template: form
 pageconfig:
     parent: /blog
@@ -11,32 +11,32 @@ pagefrontmatter:
     taxonomy:
         category: blog
         tag:
-            - journal
-            - guest
+            - informatyka
+            - 3d
 form:
     name: addpage.blogpost
     fields:
         -
             name: author
-            label: Author
+            label: Autor
             type: text
         -
             name: title
-            label: 'Post Title'
+            label: Tytuł
             type: text
         -
             name: taxonomy.tag
-            label: 'Tags (comma separated)'
+            label: 'Tagi (php,html,css,js,c++)'
             type: text
         -
             name: content
-            label: 'Post Content'
+            label: 'Treść Postu'
             type: textarea
             size: long
             classes: editor
         -
             name: images
-            label: 'Images to upload'
+            label: Obrazy
             type: file
             multiple: true
             accept:
