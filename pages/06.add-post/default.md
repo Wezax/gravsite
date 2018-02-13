@@ -7,7 +7,7 @@ pageconfig:
     overwrite_mode: true
 pagefrontmatter:
     template: item
-    title: 'My new Blog post'
+    title: 'Dodaj posta'
     taxonomy:
         category: blog
         tag:
