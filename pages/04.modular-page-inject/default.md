@@ -10,7 +10,8 @@ This is example **modular** page, where where content from module pages of **ano
 [Text](http://wikieducator.org/OER_Handbook/educator_version_one/Conclusion/Glossary) by [http://wikieducator.org/](http://wikieducator.org/), available under a Creative Commons Attribution 4.0 license.
 
 
-[plugin:page-inject](/modular-page/_CC-BY)  
+<!--[plugin:page-inject](/modular-page/_CC-BY)  
+-->
 [plugin:page-inject](/modular-page/_CC-BY-SA)  
 [plugin:page-inject](/modular-page/_CC-BY-NC)  
 [plugin:page-inject](/modular-page/_CC-BY-NC-ND)  
