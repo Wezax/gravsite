@@ -1,6 +1,8 @@
 ---
 title: Sidebar
 published: false
+external_links:
+    target: _blank
 routable: false
 visible: false
 ---
