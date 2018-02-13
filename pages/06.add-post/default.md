@@ -1,24 +1,27 @@
 ---
 title: 'Dodaj posta'
 template: form
+---
+
+---
+title: 'Add Blog Post'
+template: form
 pageconfig:
-    parent: /blog
+    parent: '/blog'
     include_username: true
     overwrite_mode: true
 pagefrontmatter:
     template: item
-    title: 'Dodaj posta'
+    title: My new Blog post
     taxonomy:
         category: blog
-        tag:
-            - journal
-            - guest
+        tag: [journal, guest]
 form:
     name: addpage.blogpost
     fields:
         -
             name: author
-            label: Author
+            label: 'Author'
             type: text
         -
             name: title
@@ -34,6 +37,7 @@ form:
             type: textarea
             size: long
             classes: editor
+            size: long
         -
             name: images
             label: 'Images to upload'
@@ -53,9 +57,8 @@ form:
         -
             addpage: null
         -
-            redirect: /blog
+            redirect: '/blog'
 ---
-
 ## Dodaj nowego posta
 
 W tym miejscu napisz treść posta.
