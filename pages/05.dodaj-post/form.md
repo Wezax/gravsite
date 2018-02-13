@@ -26,7 +26,7 @@ form:
             type: text
         -
             name: taxonomy.tag
-            label: 'Tagi (php,html,css,js,c++)'
+            label: 'Tagi (php,html,css,js,c++) (oddzielaj przecinkami)'
             type: text
         -
             name: content
