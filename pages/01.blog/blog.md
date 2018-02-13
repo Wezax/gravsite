@@ -1,8 +1,5 @@
 ---
 title: Blog
-hide_git_sync_repo_link: false
-sitemap:
-    changefreq: monthly
 body_classes: 'header-image fullwidth'
 content:
     items: '@self.children'
@@ -16,6 +13,9 @@ display_post_summary:
     enabled: false
 post_icon: calendar-o
 continue_link_as_button: false
+hide_git_sync_repo_link: false
+sitemap:
+    changefreq: monthly
 modular_content:
     items: '@self.modular'
     order:
@@ -28,5 +28,5 @@ feed:
 pagination: true
 ---
 
-# My Open Publishing Space
-## Publish, share and collaboratively edit Markdown-based content
+# Zajączkowe Prace 3D
+## Jak masz jakieś ciekawe prace związane z : C++,PHP,HTML,CSS,JS - Postuj śmiało!
