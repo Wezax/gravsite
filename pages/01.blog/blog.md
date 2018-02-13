@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: 'Strona Główna'
 body_classes: 'header-image fullwidth'
 content:
     items: '@self.children'
