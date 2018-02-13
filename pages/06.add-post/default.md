@@ -1,5 +1,5 @@
 ---
-title: 'Add Blog Post'
+title: 'Dodaj posta'
 template: form
 pageconfig:
     parent: /blog
@@ -56,6 +56,6 @@ form:
             redirect: /blog
 ---
 
-## New Blog Post
+## Dodaj nowego posta
 
-Write your blog post:Your page content goes here.
+W tym miejscu napisz treść posta.
