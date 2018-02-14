@@ -1,5 +1,5 @@
 ---
-title: 'Start JavaScriptu u Schoffera - JavaScript cz.1'
+title: 'Start JavaScriptu u Schoffera - JavaScript lekcja 1'
 media_order: headline.png
 taxonomy:
     category:
