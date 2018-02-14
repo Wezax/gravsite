@@ -14,4 +14,4 @@ continue_link_as_button: false
 ---
 
 # Zajączkowe Prace 3D
-## Jak masz jakieś ciekawe prace związane z : C++,PHP,HTML,CSS,JS - Postuj śmiało!
+## C++,PHP,HTML,CSS,JS? - Postuj śmiało!
