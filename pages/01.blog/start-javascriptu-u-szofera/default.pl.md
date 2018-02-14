@@ -72,3 +72,15 @@ var zwierze = 'kot';
 ```
 
 Zmienne w js same dostosowuja swój typ do przechowawywanych danych (zmienna _zwierze_ przechowuje dane typu string).
+
+Żeby włączyć zmienne do tekstu, używamy znaku "+":
+```js
+var zwierze = 'kot';
+document.write('<p>Moje zwierze to: ' + zwierze + '.</p>');
+```
+Oto działający przykład: 
+
+<p data-height="265" data-theme-id="0" data-slug-hash="XZawVp" data-default-tab="js,result" data-user="Wezax" data-embed-version="2" data-pen-title="Post-1.2" class="codepen">See the Pen <a href="https://codepen.io/Wezax/pen/XZawVp/">Post-1.2</a> by Wezax (<a href="https://codepen.io/Wezax">@Wezax</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+
