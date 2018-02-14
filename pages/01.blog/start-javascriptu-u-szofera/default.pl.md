@@ -1,6 +1,5 @@
 ---
 title: 'Start JavaScriptu u Szofera'
-media_order: heading.jpg
 taxonomy:
     category:
         - blog
