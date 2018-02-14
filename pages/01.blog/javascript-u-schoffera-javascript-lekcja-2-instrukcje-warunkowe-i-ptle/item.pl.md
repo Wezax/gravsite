@@ -51,5 +51,12 @@ Tutaj zadeklarowaliśmy zmienną _i_ i nadaliśmy jej wartość 0. Zmienna ta je
 > for(i; /*ustalenie warunku pętli(dopóki warunek jest prawdziwy powtazraj)*/; /*inkrementacja/dekrementacja/*){
 >  //Kod do zapętlania
 >}
->
 > ```
+
+Dalej mamy warunek:
+```js
+for(var i = 0; i<10; /*inkrementacja/dekrementacja/*){
+	//Kod do zapętlania
+}
+```
+Tutaj mówimy pętli, że dopóki zmienna i jest mniejsza niż 10, powinna powtarzać _kod w klamrach_
