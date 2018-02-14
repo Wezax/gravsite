@@ -1,13 +1,15 @@
 ---
-template: item
 title: 'Start JavaScriptu u Szofera'
+media_order: heading.jpg
 taxonomy:
-    category: blog
+    category:
+        - blog
     tag:
         - informatyka
         - 3d
         - html
         - js
+template: item
 username: ''
 author: 'Adam Majewski'
 ---
