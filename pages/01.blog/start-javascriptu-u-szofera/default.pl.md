@@ -1,5 +1,5 @@
 ---
-title: 'Start JavaScriptu u Schoffera - JavaScript lekcja 1 (podstawy składni i zmienne)'
+title: 'JavaScript u Schoffera - JavaScript lekcja 1 (podstawy składni i zmienne)'
 media_order: headline.png
 taxonomy:
     category:
