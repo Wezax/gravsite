@@ -39,7 +39,7 @@ Kod tego programu jest następujący:
 document.write("Hello World!");
 ```
 Po uruchomieniu strony zostanie wyświetlony napis _Hello World!_ . Przejdźmy teraz do wyjaśnienia tej funkcji.
-Człon _document_ odowiada za odwołanie się do strony (czyli naszego kodu HTML). Mówiąc prościej mówimy skryptowi, że chcemy się dostać do kodu strony.Część _write_ służy nam do dopisania tekstu do już istniejącgo kodu HTML. Oczywiście znakiem _;_ informujemy skrypt, że jest to koniec tej funkcji
+Człon _document_ odowiada za odwołanie się do strony (czyli naszego kodu HTML). Mówiąc prościej mówimy skryptowi, że chcemy się dostać do kodu strony.Część _write_ służy nam do dopisania tekstu do już istniejącgo kodu HTML. Oczywiście znakiem _;_ informujemy skrypt, że jest to koniec tej funkcji.
 
 > <span style="color: #d84843"><b>Uwaga!</b></span>
 > _write_ dopisuje te wartości do kodu HTML, więc powinniśmy stosować tagi typu:
@@ -52,4 +52,15 @@ Tutaj działający, poprawny przykład:
 <p data-height="265" data-theme-id="0" data-slug-hash="QQMzJz" data-default-tab="js,result" data-user="Wezax" data-embed-version="2" data-pen-title="Post-1" class="codepen">See the Pen <a href="https://codepen.io/Wezax/pen/QQMzJz/">Post-1</a> by Wezax (<a href="https://codepen.io/Wezax">@Wezax</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
+### Zmienne w JS
 
+Poznaliśmy również budowę zmiennych
+>Zmienne w  java scripcie
+
+>możesz zwać jak chcesz
+
+>mogą być cyniczne
+
+>a mogą też nie :)
+
+> ~Michał Piasecki
