@@ -16,7 +16,6 @@ pagefrontmatter:
         tag:
             - informatyka
             - 3d
-            - passwdrd
 form:
     name: addpage.blogpost
     fields:
