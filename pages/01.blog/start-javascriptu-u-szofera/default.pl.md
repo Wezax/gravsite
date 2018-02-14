@@ -14,7 +14,7 @@ username: ''
 author: 'Adam Majewski'
 ---
 
-Dzisiaj (14.02.2018) zaczeliśmy wspaniałą naukę javascriptu u ukochanego nauczyciela Schoffera (nazwizko zmienione, żeby nie było problemów). Dowiedz się czgo się nauczyliśmy!
+Dzisiaj (14.02.2018) zaczeliśmy wspaniałą naukę javascriptu u ukochanego nauczyciela Schoffera (nazwizko zmienione, żeby nie było problemów). Dowiedz się czego się nauczyliśmy!
 
 ===
 
@@ -54,7 +54,7 @@ Tutaj działający, poprawny przykład:
 
 ### Zmienne w JS
 
-Poznaliśmy również budowę zmiennych
+Poznaliśmy również składnie zmiennych.
 >Zmienne w  java scripcie
 
 >możesz zwać jak chcesz
@@ -64,3 +64,6 @@ Poznaliśmy również budowę zmiennych
 >a mogą też nie :)
 
 > ~Michał Piasecki
+
+
+W JavaScriptcie zmienne inicjuje sie przy użyciu słowa "var"
