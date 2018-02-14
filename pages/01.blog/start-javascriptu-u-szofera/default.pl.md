@@ -19,7 +19,7 @@ Dzisiaj (14.02.2018) zaczeliśmy wspaniałą naukę javascriptu u ukochanego nau
 
 ===
 
-Zaczęliśmy od wyjaśnienia co to w sumie jest JS. Żeby zaoszczędzić wam nudnej definicji zapamiętajmy to:
+**Zaczęliśmy od** wyjaśnienia co to w sumie jest JS. Żeby zaoszczędzić wam nudnej definicji zapamiętajmy to:
  	> JavaScript to język skryptów po stronie klienta. 
 
 Wad i zalet nie będę wypisywał, więc przejdźmy do ciekawszej części czyli pierwszy program. Zanim przejdziemy do programu musimy się zapoznać ze sposobem dodawania skryptu do strony. Możemy to zrobić na dwa sposoby:
