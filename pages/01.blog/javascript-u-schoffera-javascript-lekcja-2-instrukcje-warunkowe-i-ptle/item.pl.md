@@ -21,8 +21,20 @@ Kontynuując poprzednią lekcję omówimy niezbędne instrukcje potrzebne do stw
 
 W **zdjęciu** postu już możemy zauważyć parę nowych rzeczy. Zacznijmy od pętli _for_ :
 ```js
-for(/*przypisanie wartosci do zmiennej*/; /*ustalenie warunku pętli(dopóki warunek jest prawdziwy powtazraj)*/; /*inkrementacja/dekrementacja/*){
+for(/*przypisanie wartosci do zmiennej, która będzie inkrementowana/dekrementowana*/; /*ustalenie warunku pętli(dopóki warunek jest prawdziwy powtazraj)*/; /*inkrementacja/dekrementacja/*){
  	// Kod do powtarzania   
 }
 ```
-Wygląda skomplikowanie? W praktyce to nic skomplikowanego. Odwołując się do przykładu uzupełniajmy naszą pętlę:
+Wygląda skomplikowanie? W praktyce to nic skomplikowanego. Odwołując się do przykładu uzupełnijmy naszą pętlę:
+```js
+for(var i = 0; /*ustalenie warunku pętli(dopóki warunek jest prawdziwy powtazraj)*/; /*inkrementacja/dekrementacja/*){
+ 	// Kod do powtarzania   
+}
+```
+Tutaj zadeklarowaliśmy zmienną _i_ i nadaliśmy jej wartość 0. Zmienna ta jest używana do wprowadzenia danych do pętli, które pomogą nam zbudować warunek.
+
+> <span style="color: #a5f259">Ciekawostka</span>
+> Nazwa zmiennej w tym miejscu może być dowolna ale przyjęło się, że powinno się używać liter _i_, _j_ itd.
+
+> <span style="color: #a5f259">Ciekawostka</span>
+> Zadeklarować zmienną można też poza 
