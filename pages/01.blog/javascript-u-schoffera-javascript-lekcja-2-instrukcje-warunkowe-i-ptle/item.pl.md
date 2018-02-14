@@ -19,16 +19,22 @@ Kontynuując poprzednią lekcję omówimy niezbędne instrukcje potrzebne do stw
 
 ===
 
-W **zdjęciu** postu już możemy zauważyć parę nowych rzeczy. Zacznijmy od pętli _for_ :
+W **zdjęciu** postu już możemy zauważyć parę nowych rzeczy. Uprośćmy nasz przykład z obrazka do takiej formy:
+```js
+for(var i=0; i<10; i++){
+	document.write('<p>Nigdy nie będę denerwował Schoffera!</p>');
+}
+```
+Żeby opisać co się dzieje w uproszczonym skrypcie najpierw musimy omówić składnie pętli _for_:
 ```js
 for(/*przypisanie wartosci do zmiennej, która będzie inkrementowana/dekrementowana*/; /*ustalenie warunku pętli(dopóki warunek jest prawdziwy powtazraj)*/; /*inkrementacja/dekrementacja/*){
  	// Kod do powtarzania   
 }
 ```
-Wygląda skomplikowanie? W praktyce to nic skomplikowanego. Odwołując się do przykładu uzupełnijmy naszą pętlę:
+Wygląda skomplikowanie? W praktyce to nic skomplikowanego. Odwołując się do uproszczonego przykładu uzupełnijmy naszą pętlę:
 ```js
 for(var i = 0; /*ustalenie warunku pętli(dopóki warunek jest prawdziwy powtazraj)*/; /*inkrementacja/dekrementacja/*){
- 	// Kod do powtarzania   
+ 	// Kod do zapętlania 
 }
 ```
 Tutaj zadeklarowaliśmy zmienną _i_ i nadaliśmy jej wartość 0. Zmienna ta jest używana do wprowadzenia danych do pętli, które pomogą nam zbudować warunek.
@@ -42,6 +48,8 @@ Tutaj zadeklarowaliśmy zmienną _i_ i nadaliśmy jej wartość 0. Zmienna ta je
 > Zadeklarować zmienną można też poza nawiasem:
 > ```js
 > var i = 0;
-> for(i;
+> for(i; /*ustalenie warunku pętli(dopóki warunek jest prawdziwy powtazraj)*/; /*inkrementacja/dekrementacja/*){
+>  //Kod do zapętlania
+>}
 >
 > ```
