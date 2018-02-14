@@ -19,4 +19,10 @@ Kontynuując poprzednią lekcję omówimy niezbędne instrukcje potrzebne do stw
 
 ===
 
-W **zdjęciu** postu już możemy zauważyć parę nowych rzeczy. Zacznijmy od pętli _for_
+W **zdjęciu** postu już możemy zauważyć parę nowych rzeczy. Zacznijmy od pętli _for_ :
+```js
+for(/*przypisanie wartosci do zmiennej*/; /*ustalenie warunku pętli(dopóki warunek jest prawdziwy powtazraj)*/; /*inkrementacja/dekrementacja/*){
+ 	// Kod do powtarzania   
+}
+```
+Wygląda skomplikowanie? W praktyce to nic skomplikowanego. Odwołując się do przykładu uzupełniajmy naszą pętlę:
