@@ -36,5 +36,12 @@ Tutaj zadeklarowaliśmy zmienną _i_ i nadaliśmy jej wartość 0. Zmienna ta je
 > <span style="color: #a5f259">Ciekawostka</span>
 > Nazwa zmiennej w tym miejscu może być dowolna ale przyjęło się, że powinno się używać liter _i_, _j_ itd.
 
+***
+
 > <span style="color: #a5f259">Ciekawostka</span>
-> Zadeklarować zmienną można też poza 
+> Zadeklarować zmienną można też poza nawiasem:
+> ```js
+> var i = 0;
+> for(i;
+>
+> ```
