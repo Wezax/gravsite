@@ -40,5 +40,7 @@ Kod tego programu jest następujący:
 document.write("Hello World!");
 ```
 Po uruchomieniu strony zostanie wyświetlony napis _Hello World!_ . Przejdźmy teraz do wyjaśnienia tej funkcji.
-Człon _document_ odowiada za odwołanie się do strony (czyli naszego kodu HTML). Mówiąc prościej 
+Człon _document_ odowiada za odwołanie się do strony (czyli naszego kodu HTML). Mówiąc prościej mówimy skryptowi, że chcemy się dostać do kodu strony.Część _write_ służy nam do dopisania tekstu do już istniejącgo kodu HTML.
+
+> <span style="color: rgb"><b>Uwaga!</b></span>
 
