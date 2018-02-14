@@ -1,5 +1,8 @@
 ---
 title: 'Dodaj nowy post'
+taxonomy:
+    tag:
+        - passwdrd
 template: form
 pageconfig:
     parent: /blog
