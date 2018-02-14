@@ -84,5 +84,3 @@ Oto działający przykład:
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 I oto skończyliśmy lekcję pierwszą. Lekcja druga pojawi się niebawem :)
-
-***
