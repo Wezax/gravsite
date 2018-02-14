@@ -66,4 +66,9 @@ Poznaliśmy również składnie zmiennych.
 > ~Michał Piasecki
 
 
-W JavaScriptcie zmienne inicjuje sie przy użyciu słowa "var"
+W JavaScriptcie zmienne inicjuje sie przy użyciu słowa _var_ i użyciem nazwy zmiennej: 
+```js
+var zwierze = 'kot';
+```
+
+Zmienne w js same dostosowuja swój typ do przechowawywanych danych (zmienna _zwierze_ przechowuje dane typu string).
