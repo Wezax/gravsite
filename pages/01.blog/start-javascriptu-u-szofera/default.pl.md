@@ -15,7 +15,6 @@ author: 'Adam Majewski'
 ---
 
 # JavaScript cz.1
-
 Dzisiaj (14.02.2018) zaczeliśmy wspaniałą naukę javascriptu u ukochanego nauczyciela Szofera (nazwizko zmienione, żeby nie było problemów). Dowiedz się czgo się nauczyliśmy!
 
 ===
