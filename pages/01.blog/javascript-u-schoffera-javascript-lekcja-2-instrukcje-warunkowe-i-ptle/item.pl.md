@@ -1,7 +1,7 @@
 ---
 title: 'JavaScript u Schoffera  - Javascript lekcja 2 (pętla for)'
 media_order: petle.png
-published: false
+published: true
 date: '14-02-2018 23:15'
 taxonomy:
     tag:
@@ -88,6 +88,13 @@ for(var i=0; i<10; i++){
 Nasza pętla, będzie wypisywała zdanie: _Nigdy nie będę denerwował Schoffera!_, dopóki warunek _i<10_ przestanie być _prawdą_.W tym przykładzie pętla wykona się 10 razy, więc będziemy mieli 10 zdań na temat nie denerowania Pana Schoffera.
 
 Tutaj możesz zobaczyć jak to wygląda w praktyce:
+
+<p data-height="265" data-theme-id="0" data-slug-hash="PQJdgE" data-default-tab="js,result" data-user="Wezax" data-embed-version="2" data-pen-title="Post 2" class="codepen">See the Pen <a href="https://codepen.io/Wezax/pen/PQJdgE/">Post 2</a> by Wezax (<a href="https://codepen.io/Wezax">@Wezax</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+To na dziś wszystko, do zobaczenia w następnym poście, gdzie omówimy pętle _do_ i _while_!
+
+***
 
 
 
