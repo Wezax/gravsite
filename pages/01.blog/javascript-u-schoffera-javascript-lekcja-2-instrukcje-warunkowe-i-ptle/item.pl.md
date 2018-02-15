@@ -15,7 +15,7 @@ jscomments:
     active: true
 ---
 
-Kontynuując poprzednią lekcję omówimy niezbędne instrukcje potrzebne do stworzenia bardziej zaawansowanych skryptów. Dzisiaj omówimy działanie pętli _for_.Zapraszam do wspólnej nauki!
+Kontynuując poprzednią lekcję omówimy niezbędne instrukcje potrzebne do stworzenia bardziej zaawansowanych skryptów. Dzisiaj omówimy działanie pętli _for_ .Zapraszam do wspólnej nauki!
 
 ===
 
