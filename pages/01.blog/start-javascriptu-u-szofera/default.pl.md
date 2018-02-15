@@ -1,5 +1,7 @@
 ---
 title: 'JavaScript u Schoffera - JavaScript lekcja 1 (podstawy składni i zmienne)'
+published: true
+date: '14-02-2018 12:50'
 taxonomy:
     category:
         - blog
