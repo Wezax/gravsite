@@ -26,7 +26,7 @@ for(var i=0; i<10; i++){
 }
 ```
 Żeby opisać co się dzieje w uproszczonym skrypcie najpierw musimy omówić składnie pętli _for_.
-<center><h2>Pętla <i>For</i></center>
+<h2 style="text-align: center">Pętla <i>For</i></h2>
 ```js
 for(/*przypisanie wartosci do zmiennej, która będzie inkrementowana/dekrementowana*/; /*ustalenie warunku pętli(dopóki warunek jest prawdziwy powtazraj)*/; /*inkrementacja/dekrementacja/*){
  	// Kod do powtarzania   
@@ -61,3 +61,7 @@ for(var i = 0; i<10; /*inkrementacja/dekrementacja/*){
 }
 ```
 Tutaj mówimy pętli, że dopóki zmienna _i_ jest mniejsza niż 10, powinna powtarzać _kod w klamrach_.
+
+Na samym końcu mamy _inkrementacje_ i _dekrementacje_.
+> <span style="color: #619bf9;">Definicja</span>
+
