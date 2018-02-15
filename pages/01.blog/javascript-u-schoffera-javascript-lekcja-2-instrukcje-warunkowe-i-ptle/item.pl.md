@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript u Schoffera  - Javascript lekcja 2 (pętle i instrukcje warunkowe)'
+title: 'JavaScript u Schoffera  - Javascript lekcja 2 (pętla for)'
 media_order: petle.png
 published: false
 date: '14-02-2018 23:15'
@@ -15,11 +15,11 @@ jscomments:
     active: true
 ---
 
-Kontynuując poprzednią lekcję omówimy niezbędne instrukcje potrzebne do stworzenia bardziej zaawansowanych skryptów. Mówimy tutaj o pętlach (for,do,while) i instrukcjach warunkowych (If,else).Zapraszam do wspólnej nauki!
+Kontynuując poprzednią lekcję omówimy niezbędne instrukcje potrzebne do stworzenia bardziej zaawansowanych skryptów. Dzisiaj omówimy działanie pętli _for_.Zapraszam do wspólnej nauki!
 
 ===
 
-W **zdjęciu** postu już możemy zauważyć parę nowych rzeczy. Uprośćmy nasz przykład z obrazka do takiej formy:
+W **zdjęciu** postu już możemy zauważyć parę nowych rzeczy. Uprośćmy nasz przykład z obrazka na potrzeby dzisiejszej lekcji:
 ```js
 for(var i=0; i<10; i++){
 	document.write('<p>Nigdy nie będę denerwował Schoffera!</p>');
@@ -64,4 +64,30 @@ Tutaj mówimy pętli, że dopóki zmienna _i_ jest mniejsza niż 10, powinna pow
 
 Na samym końcu mamy _inkrementacje_ i _dekrementacje_.
 > <span style="color: #619bf9;">Definicja</span>
+> **Inkrementacja/Dekrementacja** polega na zwiększaniu/zmniejszaniu wartości zmiennej o **jeden**.
+
+Inkrementacje w JavaScript zapisujemy w następujący sposób:
+```js
+for(var i = 0; i<10; i++){
+	//Kod do zapętlania
+}
+```
+Jeżeli chodzi o dekrementację musimy zmienić nasza pętle, ponieważ jeżeli zamienimy _i++_ na _i--_ pętla będzie się wykonywać w nieskończoność. Powód tego jest taki, że zmienna i będzie się zmieniała w liczby -1,-2,-3 itd.Tak wygląda poprawny zapis pętli, która wykorzystuje dekrementacje:
+```js
+for(var i = 10; i>0; i--){
+	//Kod do zapętlania
+```
+Jak widzimy teraz pętla będzie wykonywała działanie _i - 1_ za każdym razem kiedy pętla zostanie wykonana, aż kiedy zmienna _i_ przestanie spełniać warunek (czyli _i_ będzie się równało zero).
+
+Skoro znamy już działanie pętli _for_, omówmy na szybko dzisiejszy przykład: 
+```js
+for(var i=0; i<10; i++){
+	document.write('<p>Nigdy nie będę denerwował Schoffera!</p>');
+}
+```
+Nasza pętla, będzie wypisywała zdanie: _Nigdy nie będę denerwował Schoffera!_, dopóki warunek _i<10_ przestanie być _prawdą_.W tym przykładzie pętla wykona się 10 razy, więc będziemy mieli 10 zdań na temat nie denerowania Pana Schoffera.
+
+Tutaj możesz zobaczyć jak to wygląda w praktyce:
+
+
 
