@@ -9,8 +9,8 @@ taxonomy:
         - 3d
         - html
         - js
-    author:
-        - 'Adam Majewski'
+author:
+    - 'Adam Majewski'
 jscomments:
     active: true
 ---
