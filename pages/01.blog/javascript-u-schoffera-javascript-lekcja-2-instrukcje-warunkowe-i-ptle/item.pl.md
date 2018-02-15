@@ -1,7 +1,6 @@
 ---
 title: 'JavaScript u Schoffera  - Javascript lekcja 2 (pętla for)'
 media_order: petle.png
-author: 'Adam Majewski'
 published: true
 date: '15-02-2018 23:15'
 taxonomy:
@@ -12,13 +11,14 @@ taxonomy:
         - js
 jscomments:
     active: true
+author: 'Adam Majewski'
 ---
 
-Kontynuując poprzednią lekcję omówimy niezbędne instrukcje potrzebne do stworzenia bardziej zaawansowanych skryptów. Dzisiaj omówimy działanie pętli _for_ .Zapraszam do wspólnej nauki!
+Kontynuując poprzednią lekcję omówimy niezbędne instrukcje potrzebne do stworzenia bardziej zaawansowanych skryptów. Dzisiaj omówimy działanie pętli _for_. Zapraszam do wspólnej nauki!
 
 ===
 
-W **zdjęciu** postu już możemy zauważyć parę nowych rzeczy. Uprośćmy nasz przykład z obrazka na potrzeby dzisiejszej lekcji:
+W **zdjęciu** umieszczonym na górze postu, już możemy zauważyć parę nowych rzeczy. Uprośćmy nasz przykład z obrazka na potrzeby dzisiejszej lekcji:
 ```js
 for(var i=0; i<10; i++){
 	document.write('<p>Nigdy nie będę denerwował Schoffera!</p>');
