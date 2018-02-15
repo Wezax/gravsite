@@ -2,7 +2,7 @@
 title: 'JavaScript u Schoffera  - Javascript lekcja 2 (pętla for)'
 media_order: petle.png
 published: true
-date: '14-02-2018 23:15'
+date: '15-02-2018 23:15'
 taxonomy:
     tag:
         - informatyka
