@@ -1,17 +1,18 @@
 ---
-title: ' JavaScript u Schoffera - Javascript lekcja 3 (pętla do,  while i do while) '
+title: ' JavaScript u Schoffera - JavaScript lekcja 3 (pętla do,  while i do while) '
 published: false
 date: '19-02-2018 12:40'
-author: 'Adam Majewski'
 taxonomy:
     tag:
         - informatyka
         - 3d
         - html
         - js
+author: 'Adam Majewski'
 ---
 
-Your page summary goes here.
+Witam w kolejnej części kursu. Dzisiaj nauczymy się pozostałych pętli, czyli do, while i ich połączonego odpowiednika.
+Zapraszam do czytania :)
 
 ===
 
