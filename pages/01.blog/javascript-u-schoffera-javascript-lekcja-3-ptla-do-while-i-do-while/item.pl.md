@@ -9,6 +9,7 @@ taxonomy:
         - html
         - js
 author: 'Adam Majewski'
+
 ---
 
 Witam w kolejnej części kursu. Dzisiaj poznamy instrukcję warunkową _if...else_.
