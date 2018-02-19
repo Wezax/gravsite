@@ -28,6 +28,10 @@ else{
 
 Łatwe, prawda? Warunkiem instrukcji może być na przykład: 
 ```js
-for(10<5)
+for(10<5){
+	document.write("Ten warunek jest prawdziwy");
+}
 ```
+W tym przypadku ten warunek zawsze będzie prawdziwym, _ponieważ 5 zawsze będzie mniejsze niż 10_.
+
 
