@@ -26,5 +26,8 @@ else{
 }
 ```
 
-Łatwe 
+Łatwe, prawda? Warunkiem instrukcji może być na przykład: 
+```js
+for(10<5)
+```
 
