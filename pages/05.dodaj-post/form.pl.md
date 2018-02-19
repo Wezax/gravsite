@@ -1,5 +1,6 @@
 ---
 title: 'Dodaj nowy post'
+published: true
 taxonomy:
     tag:
         - passwdrd
