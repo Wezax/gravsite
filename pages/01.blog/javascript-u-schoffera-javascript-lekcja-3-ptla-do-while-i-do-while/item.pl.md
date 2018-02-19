@@ -11,7 +11,7 @@ taxonomy:
 author: 'Adam Majewski'
 ---
 
-Witam w kolejnej części kursu. Dzisiaj poznamy instrukcję warunkową if...else.
+Witam w kolejnej części kursu. Dzisiaj poznamy instrukcję warunkową _if...else_.
 Zapraszam do czytania :)
 
 ===
@@ -24,5 +24,5 @@ if(/* warunek do spełnienia */){
 else{
 	/* kod, który będzie wykonany jeżeli warunek się nie spełni */
 }
-
 ```
+
