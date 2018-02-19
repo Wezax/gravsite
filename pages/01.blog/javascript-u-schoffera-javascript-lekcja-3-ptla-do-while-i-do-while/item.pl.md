@@ -16,3 +16,13 @@ Zapraszam do czytania :)
 
 ===
 
+Składnia tej instrukcji jest następująca:
+```js
+if(/* warunek do spełnienia */){
+	/* kod, który będzie wykonany jeżeli warunek się spełni */
+}
+else{
+	/* kod, który będzie wykonany jeżeli warunek się nie spełni */
+}
+
+```
