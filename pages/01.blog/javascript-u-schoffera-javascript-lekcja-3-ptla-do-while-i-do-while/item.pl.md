@@ -1,7 +1,7 @@
 ---
 title: 'JavaScript u Schoffera - JavaScript lekcja 3 (instrukcja warunkowa if...else) '
 published: true
-date: '19-02-2018 12:40'
+date: '02-03-2018 12:12'
 taxonomy:
     tag:
         - informatyka
